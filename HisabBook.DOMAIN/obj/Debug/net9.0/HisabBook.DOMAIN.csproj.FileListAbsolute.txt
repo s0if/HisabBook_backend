@@ -1,0 +1,12 @@
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\bin\Debug\net9.0\HisabBook.DOMAIN.deps.json
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\bin\Debug\net9.0\HisabBook.DOMAIN.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\bin\Debug\net9.0\HisabBook.DOMAIN.pdb
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.AssemblyInfo.cs
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.sourcelink.json
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\refint\HisabBook.DOMAIN.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\HisabBook.DOMAIN.pdb
+C:\Users\Saif\Desktop\HisabBook\HisabBook.DOMAIN\obj\Debug\net9.0\ref\HisabBook.DOMAIN.dll

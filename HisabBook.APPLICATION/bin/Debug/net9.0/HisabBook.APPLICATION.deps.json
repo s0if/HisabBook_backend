@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HisabBook.APPLICATION/1.0.0": {
+        "dependencies": {
+          "HisabBook.DOMAIN": "1.0.0"
+        },
+        "runtime": {
+          "HisabBook.APPLICATION.dll": {}
+        }
+      },
+      "HisabBook.DOMAIN/1.0.0": {
+        "runtime": {
+          "HisabBook.DOMAIN.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HisabBook.APPLICATION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HisabBook.DOMAIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

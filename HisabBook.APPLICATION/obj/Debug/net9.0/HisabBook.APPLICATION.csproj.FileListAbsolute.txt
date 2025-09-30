@@ -1,0 +1,16 @@
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\bin\Debug\net9.0\HisabBook.APPLICATION.deps.json
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\bin\Debug\net9.0\HisabBook.APPLICATION.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\bin\Debug\net9.0\HisabBook.APPLICATION.pdb
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\bin\Debug\net9.0\HisabBook.DOMAIN.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\bin\Debug\net9.0\HisabBook.DOMAIN.pdb
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.AssemblyInfo.cs
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.sourcelink.json
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBoo.9C4F68F5.Up2Date
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\refint\HisabBook.APPLICATION.dll
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\HisabBook.APPLICATION.pdb
+C:\Users\Saif\Desktop\HisabBook\HisabBook.APPLICATION\obj\Debug\net9.0\ref\HisabBook.APPLICATION.dll

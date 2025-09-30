@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HisabBook.DOMAIN/1.0.0": {
+        "runtime": {
+          "HisabBook.DOMAIN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HisabBook.DOMAIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

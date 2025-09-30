@@ -1,0 +1,162 @@
+[
+  {
+    "ContainingType": "HisabBook.API.Controllers.TransactionMoneyController",
+    "Method": "CreateTransaction",
+    "RelativePath": "TransactionMoney",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaction",
+        "Type": "HisabBook.APPLICATION.DTO.TransactionMoneyDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HisabBook.APPLICATION.DTO.TransactionMoneyDTOs",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HisabBook.API.Controllers.TransactionMoneyController",
+    "Method": "UpdateTransaction",
+    "RelativePath": "TransactionMoney/{ID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaction",
+        "Type": "HisabBook.APPLICATION.DTO.TransactionMoneyDTOs",
+        "IsRequired": true
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HisabBook.APPLICATION.DTO.TransactionMoneyDTOs",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HisabBook.API.Controllers.TransactionMoneyController",
+    "Method": "DeleteTransaction",
+    "RelativePath": "TransactionMoney/{ID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HisabBook.APPLICATION.DTO.TransactionMoneyDTOs",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HisabBook.API.Controllers.TransactionMoneyController",
+    "Method": "GetTransactionsById",
+    "RelativePath": "TransactionMoney/{ID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HisabBook.DOMAIN.Model.TransactionMoney",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HisabBook.API.Controllers.TransactionMoneyController",
+    "Method": "GetTransactionsByMonthAndYear",
+    "RelativePath": "TransactionMoney/{Month}/{Year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Month",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HisabBook.DOMAIN.Model.TransactionMoney",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HisabBook.API.Controllers.TransactionMoneyController",
+    "Method": "GetAllTransactions",
+    "RelativePath": "TransactionMoney/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "HisabBook.APPLICATION.DTO.GetTransactionMoneyDTOs",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
